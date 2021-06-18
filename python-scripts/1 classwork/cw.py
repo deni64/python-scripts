@@ -1,0 +1,5 @@
+v = int(input())
+t = int(input())
+s = (t * v)
+x = (s % 109)
+print(x)

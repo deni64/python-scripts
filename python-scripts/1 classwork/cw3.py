@@ -1,0 +1,5 @@
+x = int(input())
+y = int(x / 2)
+z = (y +1)
+w = (z*2)
+print(w)

@@ -9,7 +9,7 @@ class human:
 
     def earn_money(self):
         self.money += 1000
-    #qwerty
+    
     def get_home(self):
         if self.money == self.price:
             print('hoorah I have just bought anew house')
